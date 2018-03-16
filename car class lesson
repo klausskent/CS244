@@ -1,0 +1,16 @@
+
+
+CS244  03/08/2017
+
+Two part of knowledge:  Mechanical and thinking
+
+Mechanical: syntax, structure , basic members- constructor-setters(change the value)- getters
+
+Thinking: design
+
+car class what does a car do ?
+
+members data:
+
+
+what is my member data (private .h file) and what are my member functions ( public .h )
